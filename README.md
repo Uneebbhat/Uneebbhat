@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uneebbhat
+- 👋 Hi, I’m @Uneebbhatti
 - 👀 I’m interested in software engineering and web development
 - 🌱 I’m currently working as a front-end web developer
 - 💞️ I’m looking to collaborate on 
