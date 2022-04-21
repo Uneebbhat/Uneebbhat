@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uneebbhat
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python
+- 👀 I’m interested in software engineering and web development
+- 🌱 I’m currently working as a front-end web developer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me +923364769000 or uneebbhatti159@gmail.com
 
