@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Uneebbhatti
 - 👀 I’m interested in software engineering and web development
+- Currently learning React.js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me +923364769000 or uneebbhatti3@gmail.com
 
