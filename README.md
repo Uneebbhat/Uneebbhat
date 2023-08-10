@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Uneeb Bhatti
 #### Web developer and  love to build websites using react and webflow
-![Web developer and  love to build websites using react and webflow]
+Web developer and  love to build websites using react and webflow
 
 With a passion for design and development, I specialize in creating beautiful and responsive web applications using HTML, CSS, JavaScript, React and Webflow.
 
