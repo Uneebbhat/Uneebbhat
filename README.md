@@ -1,23 +1,29 @@
-### Hi there 👋, my name is Uneeb Bhatti
-#### Web developer and  love to build websites using react and webflow
+<h1 align="center">Hi 👋, I'm Uneeb Bhatti</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-With a passion for design and development, I specialize in creating beautiful and responsive web applications using HTML, CSS, JavaScript, React and Webflow.
+- 🔭 I’m currently working at **Extrasol**
 
-In addition to my development skills, I'm also well-versed in design tools such as Figma, Adobe Illustrator and Adobe Photoshop. I believe that a great user experience is essential to any successful project, and I enjoy working with clients to create designs that are both functional and visually appealing.
+- 🌱 I’m currently learning **react and webflow**
 
-I'm always looking for new opportunities to grow my skills and take on exciting projects, so feel free to get in touch if you're interested in working together!
+- 👯 I’m looking to collaborate on **some crazy projects**
 
-Skills: Webflow / REACT / JS / HTML / CSS
+- 🤝 I’m looking for help with **react and webflow**
 
-- 🔭 I’m currently working on Extrasol 
-- 🌱 I’m currently learning React and Webflow 
-- 👯 I’m looking to collaborate on amazing projects 
-- 💬 Ask me about Webflow and React 
-- 📫 How to reach me: uneebbhatti3@gmail.com 
+- 👨‍💻 All of my projects are available at [https://uneebbhatti.netlify.app/](https://uneebbhatti.netlify.app/)
 
+- 💬 Ask me about **html, css, saas, javascript and react**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/UneebBhatti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/uneeb-bhatti-4194b4224//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100010313268131)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_uneeb_15//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://uneebbhatti.netlify.app/)  
+- 📫 How to reach me **uneebbhatti3@gmail.com**
 
-How to support me?
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/uneeb-bhatti-4194b4224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uneeb-bhatti-4194b4224/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100010313268131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010313268131" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_uneeb_15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_uneeb_15/" height="30" width="40" /></a>
+</p>
 
-<a href="https://www.buymeacoffee.com/uneebbhatti"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=uneebbhatti&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/uneebbhatti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/uneebbhatti" /></a></p><br><br>
