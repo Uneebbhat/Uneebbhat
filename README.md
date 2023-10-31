@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- - 🔭 I have recently completed **internship at Extrasol**
+- 🔭 I have recently completed **internship at Extrasol**
 
 - 👯 I’m looking to collaborate on **MERN projects**
 
