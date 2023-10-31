@@ -6,6 +6,12 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
+- - 🔭 I have recently completed **internship at Extrasol**
+
+- 👯 I’m looking to collaborate on **MERN projects**
+
+- 🤝 I’m looking for help with **MERN stack**
+
 - 👨‍💻 All of my projects are available at [https://uneebbhatti.netlify.app/](https://uneebbhatti.netlify.app/)
 
 - 💬 Ask me about **MongoDB, Express, React and Node**
