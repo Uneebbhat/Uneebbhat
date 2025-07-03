@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uneebbhatti&label=Profile%20views&color=0e75b6&style=flat" alt="uneebbhatti" /> </p>
 
-- 🌱 I’m currently learning **MERN stack and TypeScript**
+- 🌱 I’m currently learning **Next.js and Nest.js**
 
 - 🔭 I have recently completed **internship at Token Talent**
 
-- 👯 I’m looking to collaborate on **MERN projects**
+- 👯 I’m looking to collaborate on **Web dev projects**
 
-- 🤝 I’m looking for help with **MERN stack**
+- 🤝 I’m looking for help with **MERN stack, Next.js, and Nest.js**
 
-- 👨‍💻 All of my projects are available at [https://uneebbhatti.netlify.app/](https://uneebbhatti.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://uneebbhatti.vercel.app/](https://uneebbhatti.vercel.app/)
 
-- 💬 Ask me about **MongoDB, Express, React, Node and typeScript**
+- 💬 Ask me about **MongoDB, Express, React, Node, TypeScript, JavaScript**
 
 - 📫 How to reach me **uneebbhatti3@gmail.com**
 
