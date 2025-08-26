@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on **Gemini** + **Vercel AI SDK**<br><br>🌱 I’m currently learning **React Native** to level up my full-stack skills  <br><br>👯 I’m looking to collaborate on **something AI related** <br> <br>👨‍💻 Most of my work lives here on GitHub & on my portfolio: https://uneebbhatti.vercel.app<br><br>📝 I sometimes write blogs at https://uneebbhatti.vercel.app/blog  <br><br>💬 Ask me about **MERN Stack, TypeScript, and SaaS ideas**  <br><br>📫 Reach me at **uneebbhatti3@gmail.com**<br><br>⚽ Fun fact: If not coding, you’ll find me watching football or reading</p>
+<p align="left">🔭 I’m currently working on Gemini + Vercel AI SDK<br><br>🌱 I’m currently learning React Native to level up my full-stack skills  <br><br>👯 I’m looking to collaborate on something AI related <br> <br>👨‍💻 Most of my work lives here on GitHub & on my portfolio: https://uneebbhatti.vercel.app<br><br>📝 I sometimes write blogs at https://uneebbhatti.vercel.app/blog  <br><br>💬 Ask me about MERN Stack, TypeScript, and SaaS ideas  <br><br>📫 Reach me at uneebbhatti3@gmail.com<br><br>⚽ Fun fact: If not coding, you’ll find me watching football or reading</p>
 
 ###
 
